@@ -27,6 +27,7 @@ import numpy as np
 import torch
 import torch.nn as nn
 from torch.utils.data import DataLoader
+from tqdm import tqdm
 
 from dataset import (
     HIST,
@@ -106,13 +107,14 @@ def per_horizon_mse(preds, targets, mask):
 # ---------------------------------------------------------------------------
 # Train / eval one epoch
 # ---------------------------------------------------------------------------
-def train_one_epoch(model, loader, optimizer, scaler, node_feat, adj, dev, amp, max_grad_norm):
+def train_one_epoch(model, loader, optimizer, scaler, node_feat, adj, dev, amp, max_grad_norm, epoch, epochs):
     model.train()
     total_loss = 0.0
     total_mask = 0.0
     n_batches = 0
 
-    for hist, evt, tgt, mask in loader:
+    pbar = tqdm(loader, desc=f"epoch {epoch+1:3d}/{epochs} train", leave=False, dynamic_ncols=True)
+    for hist, evt, tgt, mask in pbar:
         hist = hist.to(dev, non_blocking=True)        # [B, T, N]
         evt = evt.to(dev, non_blocking=True)          # [B, N, E]
         tgt = tgt.to(dev, non_blocking=True)          # [B, H, N]
@@ -139,7 +141,9 @@ def train_one_epoch(model, loader, optimizer, scaler, node_feat, adj, dev, amp, 
         total_loss += loss.item() * mask.sum().item()
         total_mask += mask.sum().item()
         n_batches += 1
+        pbar.set_postfix(loss=f"{loss.item():.3f}")
 
+    pbar.close()
     return total_loss / max(n_batches, 1)   # avg loss per batch
 
 
@@ -251,6 +255,7 @@ def main():
         train_loss = train_one_epoch(
             model, train_loader, optimizer, scaler,
             node_feat, adj, dev, amp_enabled, args.max_grad_norm,
+            epoch, args.epochs,
         )
         val_mse, val_per_h = evaluate(model, val_loader, node_feat, adj, dev)
         scheduler.step()
