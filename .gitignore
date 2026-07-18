@@ -19,6 +19,10 @@ dataset-task1/
 # Submission CSVs (large; keep local but don't commit)
 submissions/
 
+# Training artifacts (checkpoints, logs; reproducible from code)
+checkpoints/
+logs/
+
 # Generated caches
 data/__pycache__/
 *.npy.cache/
