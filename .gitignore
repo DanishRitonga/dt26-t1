@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets
+.env
+.env.*
+
+# Competition data (too large, re-download from competition portal)
+dataset-task1/
+
+# Submission CSVs (large; keep local but don't commit)
+submissions/
+
+# Generated caches
+data/__pycache__/
+*.npy.cache/
+

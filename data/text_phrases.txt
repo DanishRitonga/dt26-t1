@@ -1,0 +1,185 @@
+ 16738  nanyuan road
+ 16594  south third ring west road
+ 14171  wudian road
+ 14083  s11 jingcheng expressway
+ 12320  south second ring road
+ 12056  jingliang road
+ 11674  jin west road
+ 11604  xiangheyuan road
+ 11532  chaoyangmenwai street
+ 11532  s50 west fifth ring road entrance
+ 11531  jiutou road
+ 11519  north third ring west road
+ 11513  caihuying south road
+ 11448  jingtong expressway
+ 11277  jianxiang bridge
+ 11078  wufang bridge
+ 11042  tuanhe road
+ 10584  g3 beijing taiwan expressway
+ 10130  s50 north fifth ring road
+  9830  guangqu expressway
+  8095  east fourth ring middle road
+  7819  west second ring road
+  7255  xiaojiahe bridge
+  6451  s50 west fifth ring road
+  6173  siyuan bridge
+  6031  wuyuan bridge
+  5910  west fourth ring south road
+  5785  east fourth ring south road
+  5709  fuxing road
+  5620  taiyanggong bridge
+  5616  s12 airport expressway
+  5571  xiaojiaoting bridge
+  5381  majialou bridge
+  5371  yuegezhuang bridge
+  5355  zhaoyang road
+  5324  s51 airport second expressway
+  5280  beiyuan road
+  5235  north third ring middle road
+  5217  s12 airport expressway exit
+  5207  fuyou road
+  4869  guangan road
+  4825  s50 east fifth ring road
+  4509  second ring road east
+  4139  jingkai expressway
+  3967  huangyi road
+  3858  jingkai road
+  3817  g6 beijing tibet expressway
+  3675  shangqing bridge
+  3407  wanghe bridge
+  3210  sifang bridge
+  3172  g1 beijing harbin expressway
+  2895  dexian road
+  2707  north fourth ring middle road
+  2697  north second ring road
+  2526  north fourth ring east road
+  2386  west fourth ring middle road
+  2276  s50 south fifth ring road
+  2259  lugouqiao south road
+  1987  east third ring middle road
+  1892  east fourth ring north road
+  1864  g7 jingxin expressway
+  1797  west third ring middle road
+  1767  east third ring south road
+  1735  sihui bridge
+  1707  east third ring north road
+  1691  jianting bridge
+  1549  fushi road
+  1477  north third ring east road
+  1372  g4 beijing hong kong macao expressway
+  1357  north fourth ring west road
+  1286  lianshi east road
+  1280  west third ring north road
+  1222  south fourth ring middle road
+  1205  tuanzhong road
+  1193  west third ring south road
+  1141  guanganmen inner street
+  1136  west fourth ring north road
+  1053  south fourth ring east road
+  1045  jingmi road
+   926  g2 beijing shanghai expressway
+   920  guomao bridge
+   846  xizhimen bridge
+   826  jianguomenwai street
+   826  xinxing bridge
+   820  nanshawo bridge
+   798  tonghuihe north road
+   787  wanquanhe road
+   783  laiguangying bridge
+   748  jinyuan bridge
+   733  nandahongmen road
+   678  south fourth ring west road
+   668  madian bridge
+   632  pingfang bridge
+   628  south third ring east road
+   625  lianhuachi east road
+   625  lianshi west road
+   622  fucheng road
+   592  g6 auxiliary road
+   565  zuodi road
+   562  lianhuachi west road
+   537  dinghui bridge
+   537  yuantong bridge
+   528  liuli bridge
+   525  deshengmenwai street
+   521  xizhimen north street
+   518  yuanmingyuan west road
+   490  fenzhongsi bridge
+   484  tianningsi bridge
+   460  dayangfang bridge
+   434  west fourth ring middle road exit
+   417  south fourth ring west road exit
+   409  deshengmen north bridge
+   394  entrance of jingkai expressway
+   391  zizhuyuan road
+   376  wanping bridge
+   358  shijingshan road
+   357  xizhimenwai street
+   343  exit of east fourth ring middle road
+   342  south third ring middle road
+   328  jingkai auxiliary road
+   324  lianhua bridge
+   320  yamenkou bridge
+   304  shibalidian bridge
+   303  liuxiang bridge
+   296  guangqumen bridge
+   292  lugouqiao road
+   287  yongdingmenwai street
+   286  lize bridge
+   284  exit of guangqu expressway
+   283  fuxingmen bridge
+   282  xihongmen road
+   268  yuquanying bridge
+   260  jianguo road
+   253  fengtai north road
+   237  sanyuan bridge
+   237  huagong bridge
+   230  dongzhimen north bridge
+   222  fuxingmenwai street
+   208  xitucheng road
+   204  wanquanhe bridge
+   197  xueyuan road
+   195  xinfadi bridge
+   192  exit of jingkai expressway
+   181  fuchengmenwai street
+   176  gas station
+   176  exit of east second ring road
+   171  yinluchi bridge
+   170  zizhu bridge
+   164  s3501 daxing airport expressway
+   162  jiugongxin bridge
+   160  fengti south road
+   156  jianguomen inner street
+   152  fengti south road exit
+   148  s50 south fifth ring exit
+   134  liuxiang road
+   117  xinrong north street
+   113  dawayao bridge
+   111  zhiyuan west bridge
+   101  xihongmen south bridge
+   101  g3 beijing taiwan expressway exit
+    93  entrance of beijing tongzhou expressway
+    82  exit of beijing tongzhou expressway
+    81  beiyuan west bridge
+    68  guanganmenwai street
+    67  dujiakan bridge
+    59  s50 west fifth ring exit
+    51  wenhuaxiyuan north road
+    49  g4 beijing hong kong macao expressway entrance
+    46  xiaohongmen road
+    43  jingxiong expressway
+    41  zhaoyangmen bridge
+    33  s12 airport expressway entrance
+    29  west third road
+    28  feng north bridge
+    26  deyi road
+    25  s50 north fifth ring road entrance
+    24  g4 beijing hong kong macao expressway exit
+    23  nongchang road
+    19  s50 north fifth ring exit
+    18  xiaobailou bridge
+    15  107 national highway
+     5  zhoukoudian road
+     4  fuchengmen inner street
+     2  suzhou bridge
+     1  s15 beijing tianjin expressway
